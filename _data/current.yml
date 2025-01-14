@@ -1,3 +1,9 @@
+- name: LDX3 London 2025
+  location: London, UK
+  dates: "March 25, 2025"
+  url: https://leaddev.submittable.com/submit/312728/talk-submissions-for-ldx3-2025
+  status: CFP is Open
+
 - name: RoboCon 2025 - Robot Framework Conference
   location: Helsinki, Finland
   dates: "February 13-14, 2025"
